@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspn_ViewModel", "Aspn_ViewModel\Aspn_ViewModel.csproj", "{BB0D243E-DC61-41A4-86AB-01FB3F362FD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB0D243E-DC61-41A4-86AB-01FB3F362FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0D243E-DC61-41A4-86AB-01FB3F362FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0D243E-DC61-41A4-86AB-01FB3F362FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0D243E-DC61-41A4-86AB-01FB3F362FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC0CCD29-1E3D-4C36-8840-1314E1C8CBF0}
+	EndGlobalSection
+EndGlobal
